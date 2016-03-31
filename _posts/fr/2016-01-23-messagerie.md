@@ -17,4 +17,4 @@ Lorsqu'un joueur se connecte sur le site et qu'un message non lu lui est destin�
 
 Si vous avez des suggestions ou vous rencontrez des problèmes, écrivez-nous au [info@maligue.ca](mailto:info@maligue.ca).
 
-Par Simon
+Par Simon.
