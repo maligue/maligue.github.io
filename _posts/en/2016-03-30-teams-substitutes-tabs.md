@@ -8,6 +8,6 @@ Some adjustments were made to league pages to simplify the management of players
 
 {% include image.html src="2016-03-30-substitutes-tab.png" caption="Substitutes tab" %}
 
-If you have any questions or comments please contact us at info@maligue.ca.
+If you have any questions or comments please contact us at [info@maligue.ca](mailto:info@maligue.ca).
 
 By Simon.

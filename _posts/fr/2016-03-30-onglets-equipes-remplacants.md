@@ -8,6 +8,6 @@ Des ajustements ont été apportés aux pages de gestion de ligue afin de simpli
 
 {% include image.html src="2016-03-30-substitutes-tab.png" caption="Onglet Remplaçants" %}
 
-Nous attendons vos commentaires au info@maligue.ca.
+Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
 Par Simon.
