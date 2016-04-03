@@ -55,7 +55,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: UA-75894079-1 # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-57661423-4 # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
