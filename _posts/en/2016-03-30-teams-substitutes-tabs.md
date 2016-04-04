@@ -2,7 +2,7 @@
 title: "New feature! - Simplified management of teams and substitutes "
 localization: teams-substitutes-tabs
 ---
-Some adjustments were made to league pages to simplify the management of players. The “Players” tab was replaced by two new tabs. The “Teams” tab gather all the team management actions as well as actions to manage regular players. The “Substitute” tab allows the management of the substitute bank of the league and each team.
+Some adjustments were made to league management pages in order to simplify players management. The “Players” tab was replaced by two new tabs. The “Teams” tab gather all the team management actions as well as actions, to manage regular players. The “Substitute” tab allows the management of the substitutes bank of the league or of every team.
 
 {% include image.html src="2016-03-30-teams-tab.png" caption="Teams tab" %}
 
