@@ -15,10 +15,6 @@
     </div>
     <nav class="site-nav">
         <ul>
-			<li style="padding-left:40px">
-                <a href="{{ site.baseurl }}/{{page.lang}}">{{site.t[page.lang].blog}}</a>
-			</li>
-
             {% for page in site.pages %}
             {% if page.title and page.hide != true %}
             <li>
@@ -49,6 +45,10 @@
 
             <!-- Social icons from Font Awesome, if enabled -->
             {% include icons.html %}
+
+            <li style="margin-left:3em">
+                <a href="{{ site.baseurl }}/{{page.lang}}">{{site.t[page.lang].blog}}</a>
+            </li>
         </ul>
     </nav>
 </header>
