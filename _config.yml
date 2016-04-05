@@ -9,16 +9,6 @@ defaults:
       path: ""
     values:
       layout: "post"
-  -
-    scope:
-      path: "_posts/en"
-    values:
-      lang: en
-  -
-    scope:
-      path: "_posts/fr"
-    values:
-      lang: fr
 
 # THEME-SPECIFIC CONFIGURATION
 theme:

@@ -1,5 +1,6 @@
 ---
 title: "Nouvelle fonctionnalité! - Messagerie pour les gestionnaires"
+lang: fr
 localization: messages
 ---
 Aujourd'hui, nous ajoutons une nouvelle fonctionnalité pour les gestionnaires de ligue, l'envoi de messages aux joueurs d'une ligue, d'une équipe ou d'une partie.

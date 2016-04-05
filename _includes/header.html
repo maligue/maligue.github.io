@@ -16,7 +16,7 @@
     <nav class="site-nav">
         <ul>
 			<li style="padding-left:40px">
-                <a href="{{ site.baseurl }}/{{page.lang}}">TESSST</a>
+                <a href="{{ site.baseurl }}/{{page.lang}}">{{site.t[page.lang].blog}}</a>
 			</li>
 
             {% for page in site.pages %}
@@ -30,19 +30,19 @@
             {% endfor %}
 
             {% assign posts=site.posts | where:"localization", page.localization | sort: 'lang' %}
-            {% for post in posts reversed %}
-			{% if post.hide != true %}
+            {% for po in posts reversed %}
+			{% if po.hide != true %}
             <li class="lang">
-                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                <a href="{{ po.url }}" class="{{ po.lang }}">{{ po.lang }}</a>
             </li>
 			{% endif %}
             {% endfor %}
 
             {% assign pages=site.pages | where:"localization", page.localization | sort: 'lang' %}
-            {% for page in pages reversed %}
-            {% if page.hide != true %}
+            {% for pa in pages reversed %}
+            {% if pa.hide != true %}
             <li class="lang">
-                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                <a href="{{ pa.url }}" class="{{ pa.lang }}">{{ pa.lang }}</a>
             </li>
             {% endif %}
             {% endfor %}
