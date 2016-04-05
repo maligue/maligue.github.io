@@ -29,7 +29,7 @@
             {% for po in posts reversed %}
 			{% if po.hide != true %}
             <li class="lang">
-                <a href="{{ po.url }}" class="{{ po.lang }}">{{ po.lang }}</a>
+                <a href="{{ po.url }}" class="{{ po.lang }}">{{site.languages[po.lang]}}</a>
             </li>
 			{% endif %}
             {% endfor %}
@@ -38,7 +38,7 @@
             {% for pa in pages reversed %}
             {% if pa.hide != true %}
             <li class="lang">
-                <a href="{{ pa.url }}" class="{{ pa.lang }}">{{ pa.lang }}</a>
+                <a href="{{ pa.url }}" class="{{ pa.lang }}">{{site.languages[pa.lang]}}</a>
             </li>
             {% endif %}
             {% endfor %}

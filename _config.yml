@@ -71,6 +71,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+languages:
+  en: English
+  fr: Français
+
 t:
   en:
     header:
