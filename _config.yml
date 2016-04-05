@@ -86,7 +86,9 @@ t:
     header:
     footer: Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
     continue_reading: Continue reading
+    blog: Blog
   fr:
     header:
     footer: Alimenté par <a href="http://jekyllrb.com">Jekyll</a> avec <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
     continue_reading: Continuer la lecture
+    blog: Blogue
