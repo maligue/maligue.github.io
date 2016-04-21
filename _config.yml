@@ -13,10 +13,10 @@ defaults:
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: blog.MaLigue.ca
+  title: blog.Maligue.ca
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Follow the MaLigue.ca blog for news." # used by search engines
+  description: "Follow the Maligue.ca blog for news." # used by search engines
 
   # Header and footer text
   header_text: Blog
