@@ -3,9 +3,7 @@ title: "Nouvelle fonctionnalité! - Logos et notifications pour les équipes"
 lang: fr
 localization: logo-team-notifications
 ---
-Maligue.ca vous permet désormais de personnaliser votre ligue et de configurer le système de notification.
-
-Tout d'abord, un logo peut être ajouté à chaque équipe par le capitaine ou par un gestionnaire afin de personnaliser la ligue. Les logos sont affichés dans les pages d'équipe, dans le calendrier, le classement et le détail d'une partie.
+Maligue.ca vous permet désormais de personnaliser votre ligue et de configurer le système de notification. Tout d'abord, un logo peut être ajouté à chaque équipe par le capitaine ou par un gestionnaire afin de personnaliser la ligue. Les logos sont affichés dans les pages d'équipe, dans le calendrier, le classement et le détail d'une partie.
 
 {% include image.html src="2016-05-16-logos.png" caption="Logo des équipes dans l'horaire" %}
 
