@@ -16,4 +16,3 @@ Last update, substitutes can choose their team when there is a free game spot in
 If you have any questions or comments please contact us at [info@maligue.ca](mailto:info@maligue.ca).
 
 By Simon.
-
