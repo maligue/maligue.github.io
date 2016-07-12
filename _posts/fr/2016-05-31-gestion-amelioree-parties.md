@@ -16,16 +16,3 @@ Dernière nouveauté, les remplaçants peuvent maintenant choisir leur équipe l
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
 Par Simon.
-
-
-
-
-
-
-
-
-
-
-
-
-
