@@ -12,7 +12,7 @@ defaults:
       layout: "post"
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: blog.Maligue.ca
   avatar: avatar.png
