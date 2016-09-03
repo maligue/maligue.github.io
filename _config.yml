@@ -54,16 +54,13 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
   
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -82,8 +79,12 @@ t:
     footer: Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
     continue_reading: Continue reading
     blog: Blog
+    next_post: Next post
+    previous_post: Previous post
   fr:
     header:
     footer: Alimenté par <a href="http://jekyllrb.com">Jekyll</a> avec <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
     continue_reading: Continuer la lecture
     blog: Blogue
+    next_post: Article suivant
+    previous_post: Article précédent
