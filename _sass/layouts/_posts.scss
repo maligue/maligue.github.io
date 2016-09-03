@@ -53,13 +53,14 @@ header {
   border-bottom: 1px solid $border-color;
   display: flex;
   float: left;
+  padding: 0 20%;
 
   a, .page-title {
     display: inline-block;
   }
 
   .page-title {
-    font-size: 1.2em;
+    font-size: 1em;
     margin-bottom: 1em;
     width: 100%;
   }
@@ -70,12 +71,21 @@ header {
     text-align: center;
     width: 50%;
   }
+
   a:hover {
-    @extend a.button:hover;
+    text-decoration: underline;
   }
 
   i {
     vertical-align: middle;
+  }
+
+  .nav-icon-next {
+    padding-left: 5px;
+  }
+
+  .nav-icon-previous {
+    padding-right: 5px;
   }
 }
 
