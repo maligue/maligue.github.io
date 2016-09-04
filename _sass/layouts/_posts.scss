@@ -49,13 +49,12 @@ header {
 }
 // Post navigation
 #post-nav {
-  width:100%;
+  width: 100%;
   border-bottom: 1px solid $border-color;
-  display: flex;
   float: left;
   padding: 0 20%;
 
-  a, .page-title {
+  .page-title {
     display: inline-block;
   }
 
@@ -66,10 +65,17 @@ header {
   }
 
   a {
-    padding: 2em 3em;
+    padding: 1em 1.5em;
     border: 1px solid rgba(255, 255, 255, 0);
     text-align: center;
     width: 50%;
+    min-width: 225px;
+    float: left;
+    display: block;
+
+    @media (max-width: $mobile-width) {
+      width: 100%;
+    }
   }
 
   a:hover {
