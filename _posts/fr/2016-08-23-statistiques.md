@@ -2,7 +2,6 @@
 title: "Nouvelle fonctionnalité! - Statistiques de joueur"
 lang: fr
 localization: statistics
-feature-img: "assets/img/2016-08-23-statistics-header.jpg"
 ---
 La saisie des statistiques avec Maligue.ca est facile et entièrement configurable. À partir de l’onglet _Résultats_ des paramètres de votre ligue, vous pouvez déterminer toute l’information qui sera saisie à chaque partie. Ces informations vous permettront d’avoir un classement et des statistiques plus ou moins détaillées selon vos besoins. Vous pouvez, par exemple, choisir d’entrer les pénalités, les temps des buts et les mises au jeu. Ensuite, dans l’onglet _Statistiques_ des paramètres de la ligue, décidez des statistiques que vos joueurs pourront voir. Si vous désirez conserver cette information pour les gestionnaires seulement, vous pouvez désactiver l’affichage pour les joueurs.
 

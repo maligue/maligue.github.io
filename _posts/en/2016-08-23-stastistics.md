@@ -2,7 +2,6 @@
 title: "New feature! - Player statistics"
 lang: en
 localization: statistics
-feature-img: "assets/img/2016-08-23-statistics-header.jpg"
 ---
 Statistics with Maligue.ca are easy and entirely configurable. From the _Results_ tab of your league parameters, you can determine the information that will be entered to each game. That information will allow you to have more or less detailed standing and statistics according to your need. You can, for example, choose to enter penalties, time of goals and faceoffs. Then, in the _Statistics_ tab of your league parameters, decide which statistics to display to your players. If you desire to keep the information for managers only, you can disable the display of statistics to players.
 
