@@ -3,7 +3,7 @@ title: "New feature! - Simplified player management"
 lang: en
 localization: simplified-player-management
 ---
-We added new actions in the Teams and Substitutes tabs to ease the management of players. With these actions, you can change a player of team or move a player to your substitutes in a click. It has never been so simple to manage your players!
+We added new actions in the Teams and Substitutes tabs to help you manage your players. These actions allow you to move a player to another team or move them to your ligue substitutes bank. With these new actions managing your list of players has never been so simple.
 
 {% include image.html src="2016-09-05-simplified-player-management.png" caption="Drop-down menu for player actions" %}
 
