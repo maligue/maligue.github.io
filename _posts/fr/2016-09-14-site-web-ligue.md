@@ -7,7 +7,7 @@ Avec le site web de ligue, vous pouvez créer votre propre site web professionne
 
 {% include image.html src="2016-09-14-league-website.png" caption="Exemple d'un site web de ligue." %}
 
-Allez [ici](https://maligue.ca/demo) pour voir le résultat final.
+Allez [ici](https://maligue.ca/demofr) pour voir le résultat final.
 
 Tout d’abord, allez dans l’onglet _Site web_ de votre ligue pour activer le site web. Cela rendra l’information que vous choisirez accessible aux utilisateurs non authentifiés à partir de l’internet. 
 

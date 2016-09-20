@@ -7,7 +7,7 @@ With the league website, you can create your own professional website for your n
 
 {% include image.html src="2016-09-14-league-website.png" caption="Example of a league web site." %}
 
-Go [here](https://maligue.ca/demo) to see the final result.
+Go [here](https://maligue.ca/demoen) to see the final result.
 
 First, go to the _Web site_ tab to activate the website. This will make the information you choose available to unauthenticated users on the internet.
 
