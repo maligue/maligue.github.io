@@ -11,7 +11,7 @@ Allez [ici](https://maligue.ca/demofr) pour voir le résultat final.
 
 Tout d’abord, allez dans l’onglet _Site web_ de votre ligue pour activer le site web. Cela rendra l’information que vous choisirez accessible aux utilisateurs non authentifiés à partir de l’internet. 
 
-Entrez le mot-clé qui identifiera votre ligue dans l’adresse de votre site. Par exemple, si vous entrez «demo», l’adresse de votre site sera [https://maligue.ca/demo](https://maligue.ca/demo). Sauvegardez pour ensuite configurer les différentes pages de votre site. À partir de l’onglet _Général_, activez les pages calendrier, classement ou statistiques selon vos besoins.
+Entrez le mot-clé qui identifiera votre ligue dans l’adresse de votre site. Par exemple, si vous entrez «demofr», l’adresse de votre site sera [https://maligue.ca/demofr](https://maligue.ca/demofr). Sauvegardez pour ensuite configurer les différentes pages de votre site. À partir de l’onglet _Général_, activez les pages calendrier, classement ou statistiques selon vos besoins.
 
 Utilisez l’onglet _Nouvelles_ pour informer vos joueurs des dernières mises à jour. Les nouvelles sont seulement publiées quand elles sont activées.
 

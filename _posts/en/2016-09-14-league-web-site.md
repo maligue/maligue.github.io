@@ -11,7 +11,7 @@ Go [here](https://maligue.ca/demoen) to see the final result.
 
 First, go to the _Web site_ tab to activate the website. This will make the information you choose available to unauthenticated users on the internet.
 
-Enter the keyword that will identify your league in your site address. For example, if you enter "demo", the address of your website will be [https://maligue.ca/demo](https://maligue.ca/demo). Once saved, you will be able to configure the various pages of your site. From the _General_ tab, you can activate the calendar, ranking or statistics pages as required.
+Enter the keyword that will identify your league in your site address. For example, if you enter "demoen", the address of your website will be [https://maligue.ca/demoen](https://maligue.ca/demoen). Once saved, you will be able to configure the various pages of your site. From the _General_ tab, you can activate the calendar, ranking or statistics pages as required.
 
 Use the _News_ tab to inform your players of the latest updates. The news are published only when activated.
 
