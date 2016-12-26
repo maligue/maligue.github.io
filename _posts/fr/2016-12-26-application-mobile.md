@@ -7,6 +7,9 @@ Avec la nouvelle application mobile, vous avez accès à toutes les fonctionnali
 
 {% include image.html src="2016-12-26-phones-fr.jpg" caption="iPhone et Android supportés" %}
 
+{% include image.html src="2016-12-26-app-store-fr.jpg" url="https://itunes.apple.com/ca/app/maligue.ca-gestion-ligue-sportive/id1186556911?l=fr" %}
+{% include image.html src="2016-12-26-play-store-fr.jpg" url="https://play.google.com/store/apps/details?id=ca.maligue&hl=fr" %}
+
 ## Pour les joueurs
 * Voyez votre horaire de parties ainsi que l'alignement de chaque partie
 * Déclarez votre absence en quelques secondes

@@ -7,6 +7,9 @@ With the new mobile app, you have access to all the features of Maligue.ca, anyt
 
 {% include image.html src="2016-12-26-phones-en.jpg" caption="iPhone and Android supported" %}
 
+{% include image.html src="2016-12-26-app-store-en.jpg" url="https://itunes.apple.com/ca/app/maligue.ca-gestion-ligue-sportive/id1186556911" %}
+{% include image.html src="2016-12-26-play-store-en.jpg" url="https://play.google.com/store/apps/details?id=ca.maligue" %}
+
 ### For players
 * View your schedule as well as the alignment of each game
 * Declare your absence in seconds
