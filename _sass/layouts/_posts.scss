@@ -38,7 +38,7 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-large/2.5 $padding-large/1.25;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
@@ -61,7 +61,7 @@ header {
       background-image: url( '/assets/img/post-header-mobile.jpg' );
     }
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-large/2.5 $padding-large/1.25;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
