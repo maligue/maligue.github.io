@@ -20,13 +20,13 @@ To create a "pick up" type league, select this type in the league creation form.
 
 Before starting a game, go to the game details and click on the "Create Lineup" button. Decide which player will be in which team manually or randomly by clicking the "Generate Random Lineup" button. If you are not satisfied with a random lineup, you can click the button again to generate a new lineup or make the final adjustments manually. Once satisfied, you can send the lineup to the players by selecting "Send Lineup to Players". You can also print your lineup to display at the arena. 
 
-{% include image.html src="2017-01-31-create-lineup-en.png" caption="Easily create your game lineup" %}
+{% include image.html src="2017-03-15-create-lineup-en.png" caption="Easily create your game lineup" %}
 
-{% include image.html src="2017-01-31-lineup-email-en.png" caption="Example of a lineup sent by email" %}
+{% include image.html src="2017-03-15-lineup-email-en.png" caption="Example of a lineup sent by email" %}
 
 To change the name, color, and logo of your two teams, go to the "Teams" tab of your league settings.
 
-{% include image.html src="2017-01-31-team-settings-en.png" caption="Team settings" %}
+{% include image.html src="2017-03-15-team-settings-en.png" caption="Team settings" %}
 
 If you have any questions or comments please contact us at [info@maligue.ca](mailto:info@maligue.ca).
 

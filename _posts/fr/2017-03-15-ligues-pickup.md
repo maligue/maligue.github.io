@@ -20,13 +20,13 @@ Pour créer une ligue de type «pick up», sélectionnez ce type dans le formula
 
 Avant le début d’une partie, allez dans le détail de la partie, puis cliquez sur le bouton «Créer l’alignement». Décidez quel joueur sera dans quelle équipe manuellement ou aléatoirement en cliquant le bouton «Générer un alignement aléatoire». Si vous n’êtes pas satisfait d’un alignement aléatoire, vous pouvez cliquer de nouveau sur le bouton pour obtenir un nouvel alignement ou faire les derniers ajustements manuellement. Une fois satisfait, vous pouvez envoyer l’alignement aux joueurs en cochant «Envoyer l’alignement aux joueurs». Vous pouvez aussi imprimer l’alignement pour l’afficher à l’aréna.
 
-{% include image.html src="2017-01-31-create-lineup-fr.png" caption="Créer facilement l'alignement de la partie" %}
+{% include image.html src="2017-03-15-create-lineup-fr.png" caption="Créer facilement l'alignement de la partie" %}
 
-{% include image.html src="2017-01-31-lineup-email-fr.png" caption="Example d'alignement envoyé par courriel" %}
+{% include image.html src="2017-03-15-lineup-email-fr.png" caption="Example d'alignement envoyé par courriel" %}
 
 Pour changer le nom, la couleur ou le logo de vos deux équipes, allez dans l’onglet «Équipes» des paramètres de votre ligue.
 
-{% include image.html src="2017-01-31-team-settings-fr.png" caption="Paramètres des équipes" %}
+{% include image.html src="2017-03-15-team-settings-fr.png" caption="Paramètres des équipes" %}
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
