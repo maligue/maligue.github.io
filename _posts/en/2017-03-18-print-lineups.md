@@ -1,7 +1,7 @@
 ---
 title: "New feature! - Print game lineups"
 lang: en
-localization: substitution-request-prices
+localization: print-game-lineups
 ---
 It is now easy to print a game lineup. Go to the details of the game and click the "Print Lineup" button. An optimized page containing the information of the game will be printed. You can display these pages at the arena to, for example, direct the players to the correct locker room.
 

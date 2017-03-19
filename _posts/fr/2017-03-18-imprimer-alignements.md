@@ -1,7 +1,7 @@
 ---
 title: "Nouvelle fonctionnalité! - Imprimer l'alignement d'une partie"
 lang: fr
-localization: substitution-request-prices
+localization: print-game-lineups
 ---
 Il est maintenant facile d’imprimer l’alignement d’une partie. Allez dans le détail de la partie et cliquez sur le bouton «Imprimer l’alignement». Une page optimisée contenant l’information de la partie sera imprimée. Vous pouvez afficher ces pages à l’aréna pour, par exemple, orienter les joueurs vers le bon vestiaire.
 
