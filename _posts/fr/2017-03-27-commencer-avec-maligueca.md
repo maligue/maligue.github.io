@@ -34,7 +34,7 @@ Le type de la ligue spécifie comment les équipes sont gérées par le gestionn
 
 #### Positions
 
-Les positions sont utilisées par Maligue.ca pour remplacer automatiquement un joueur absent par un remplaçant jouant la même position. 
+Les positions sont utilisées par Maligue.ca pour remplacer automatiquement un joueur absent par un remplaçant pouvant jouer la même position. 
 
 Au hockey, vous avez le choix entre 
 * Joueurs et gardiens de but
@@ -100,11 +100,43 @@ Tout comme les joueurs d'une équipe, il est facile de changer un remplaçant à
 
 {% include image.html src="2017-03-27-other-substitute-options-fr.png" caption="Autres options" %}
 
-### Ajouter les parties
-
-À partir de l’onglet Calendrier, cliquez sur le bouton Ajouter une partie et entrez l’information demandée. Si vos parties sont hebdomadaires, utilisez l’option Répéter l’horaire des parties pour automatiquement créer plusieurs parties avec les mêmes paramètres. Pour voir le détail de la partie, cliquez sur l’icône d’oeil de la partie dans l’entête du calendrier.
+### Calendrier des parties
 
 {% include image.html src="2016-09-18-games.png" caption="Calendrier des parties" %}
+
+#### Ajouter les parties
+
+À partir de l’onglet Calendrier, cliquez sur le bouton Ajouter une partie et entrez l’information demandée. Si vos parties sont hebdomadaires, utilisez l’option Répéter l’horaire des parties pour automatiquement créer plusieurs parties avec les mêmes paramètres.
+
+{% include image.html src="2017-03-27-add-game-fr.png" caption="Ajouter une partie" %}
+
+### Voir une partie
+
+Pour voir le détail de la partie, cliquez sur l’icône d’oeil de la partie dans l’entête du calendrier ou sur la date dans la liste de parties.
+
+Cette page peut être imprimée pour être affichée à l'aréna ou au terrain.
+
+{% include image.html src="2017-03-27-game-fr.png" caption="Voir une partie" %}
+
+#### Autres options
+
+Les gestionnaires peuvent eux-mêmes déclarer l'absence d'un joueur en utilisant le bouton «Chercher un remplaçant».
+
+L'option «Sélectionner un autre joueur» permet aux gestionnaires de remplacer eux-mêmes un joueur par un autre.
+
+«Retirer le joueur de l'alignement» enlève le joueur de la partie, mais sans démarrer une recherche de remplaçant.
+
+Avec «Changer un joueur d'équipe», les gestionnaires peuvent déplacer un joueur dans l'autre équipe.
+
+«Voir les remplaçants» affiche l'état des demandes de remplacement.
+ 
+«Changer la position» permet de faire jouer un joueur à une autre position pour obtenir le bon alignement.
+
+«Assigner un # de joueur» spécifie le numéro du joueur pour cette partie seulement.
+
+Avec «Voir l'historique», les gestionnaires peuvent voir toutes les actions effectuées sur un emplacement.
+
+{% include image.html src="2017-03-27-game-options-fr.png" caption="Autres options" %}
 
 ### Envoyer un message aux joueurs
 
@@ -122,15 +154,7 @@ Lorsqu'un joueur se connecte sur le site et qu'un message non lu lui est destin�
 
 ### Entrer les résultats d'une partie
 
-
-
-### Consulter le classement de la ligue
-
-
-
-### Consulter les statistiques de la ligue
-
-La saisie des statistiques avec Maligue.ca est facile et entièrement configurable. À partir de l’onglet _Résultats_ des paramètres de votre ligue, vous pouvez déterminer toute l’information qui sera saisie à chaque partie. Ces informations vous permettront d’avoir un classement et des statistiques plus ou moins détaillées selon vos besoins. Vous pouvez, par exemple, choisir d’entrer les pénalités, les temps des buts et les mises au jeu. Ensuite, dans l’onglet _Statistiques_ des paramètres de la ligue, décidez des statistiques que vos joueurs pourront voir. Si vous désirez conserver cette information pour les gestionnaires seulement, vous pouvez désactiver l’affichage pour les joueurs.
+La saisie des statistiques avec Maligue.ca est facile et entièrement configurable. À partir de l’onglet _Résultats_ des paramètres de votre ligue, vous pouvez déterminer toute l’information qui sera saisie à chaque partie. Ces informations vous permettront d’avoir un classement et des statistiques plus ou moins détaillées selon vos besoins. Vous pouvez, par exemple, choisir d’entrer les pénalités, les temps des buts et les mises au jeu.
 
 {% include image.html src="2016-08-23-statistics-configuration.png" caption="Configuration des statistiques de votre ligue." %}
 
@@ -138,7 +162,17 @@ Un nouvel onglet _Résultats_ a été ajouté aux parties. À partir de celui-ci
 
 {% include image.html src="2016-08-23-statistics-game-results.png" caption="Saisie des résultats de la partie." %}
 
-Finalement, à partir de l’onglet _Statistiques_ de votre ligue, vous pouvez consulter les statistiques des joueurs. Les joueurs peuvent voir ces données à partir du menu principal.
+### Consulter le classement de la ligue
+
+Avec l'onglet _Classement_ de votre ligue, vous pouvez consulter le classement des équipes de votre ligue. Les joueurs et les remplaçants peuvent aussi voir le classement à partir du menu principal.
+
+{% include image.html src="2017-03-27-standings-fr.png" caption="Classement." %}
+
+### Consulter les statistiques de la ligue
+
+À partir de l’onglet _Statistiques_ de votre ligue, vous pouvez consulter les statistiques des joueurs. Les joueurs et les remplaçants peuvent aussi voir les statistiques à partir du menu principal.
+
+Dans l’onglet _Statistiques_ des paramètres de la ligue, décidez des statistiques que vos joueurs pourront voir. Si vous désirez conserver cette information pour les gestionnaires seulement, vous pouvez désactiver l’affichage pour les joueurs.
 
 {% include image.html src="2016-08-23-statistics-table.png" caption="Tableau des statistiques." %}
 
@@ -164,16 +198,156 @@ Présentement, il y a trois pages où vous pouvez publier de l’information sur
 
 Révisez les paramètres de votre ligue dans l’onglet Paramètres.
 
-#### Marqueurs
+#### Paramètres généraux
+
+À partir de l'onglet _Général_ des paramètres de votre ligue, vous pouvez téléverser un logo qui sera affiché à la plage du nom de votre ligue.
+
+{% include image.html src="2017-03-27-general-parameters-fr.png" caption="Paramètres généraux" %}
+
+##### Nom de la ligue
+
+Changez de nom de la ligue ou téléversez un logo qui sera affiché à la plage du nom de votre ligue dans l'application.
+
+##### Fuseau horaire
+
+Le fuseau horaire permet à Maligue.ca d'envoyer les demandes de remplacement au bon moment avant les parties.
+
+##### Sport
+
+Le sport définit les configurations de position disponibles ainsi que les statistiques pouvant être calculées après chaque match.
+
+##### Type de ligue
+
+Le type de la ligue spécifie comment les équipes sont gérées par le gestionnaire, soit «pick-up» ou «équipes fixes».
+
+##### Positions
+
+Les positions sont utilisées par Maligue.ca pour remplacer automatiquement un joueur absent par un remplaçant pouvant jouer la même position. 
+
+##### Forces des joueurs
+
+En activant les forces de joueurs, Maligue.ca va contacter des remplaçants du bon niveau pour garder vos équipes balancées.
+
+#### Paramètres de remplacement
+
+##### Nombre d'heures avant la partie où les joueurs ne peuvent plus déclarer d'absence
+
+Empêcher les joueurs de déclarer une absence juste avant le début d'une partie.
+
+{% include image.html src="2017-03-27-no-absence-before-games-fr.png" caption="Plage ne pas déranger" %}
+
+##### Contacter les joueurs remplaçants uniquement dans les jours précédant la partie
+
+Permets de contacter les joueurs seulement durant un certaine période de temps avant la partie. Par exemple, ne pas contacter les joueurs pour une partie qui aura lieu dans deux mois.
+
+{% include image.html src="2017-03-27-contact-period-fr.png" caption="Plage ne pas déranger" %}
+
+##### Spécifier une plage de temps ne pas déranger
+
+Durant la plage «ne pas déranger», Maligue.ca n'envoie pas de SMS et de courriel aux joueurs. Permets de ne pas déranger les joueurs durant la nuit.
+
+{% include image.html src="2017-03-27-do-not-disturb-fr.png" caption="Plage ne pas déranger" %}
+
+##### Délais pour le remplacement automatique
+
+Permets aux gestionnaires de configurer un délai entre chaque étape de la recherche de remplaçants. Ces délais permettent de laisser du temps aux favoris d'accepter les demandes avant de contacter 
+tous les remplaçants.
+
+{% include image.html src="2017-03-27-substitution-request-delays-fr.png" caption="Delais pour le remplacement automatique" %}
+
+##### Inclure les prix dans les demandes de remplacement
+
+{% include image.html src="2017-03-26-substitution-request-price-fr.png" caption="Prix inclus dans une demande de remplacement" %}
+
+Entrez le montant pour chaque position de votre ligue. Par exemple, un remplacement peut coûter 20$ à un défenseur ou un attaquant, mais être gratuit pour un gardien de but. Le prix est aussi inclus dans le message envoyé à un joueur remplacé manuellement par un gestionnaire.
+
+{% include image.html src="2017-03-26-prices-fr.png" caption="Prix pour les remplacements" %}
+
+##### Envoyer un rappel aux remplaçants automatiquement s'il manque toujours un joueur à l'approche du début de la partie
+
+Permet d’envoyer automatiquement un rappel de partie aux remplaçants qui n’ont pas encore répondu à leur demande a été ajoutée. Si, par exemple, votre ligue est configurée pour envoyer des demandes de remplacement une semaine avant les parties, vous pouvez maintenant configurer un rappel automatique deux jours avant le début de la partie.
+
+{% include image.html src="2016-06-21-automatic-substitute-reminder.png" caption="Rappel automatique pour les remplaçants" %}
+
+##### Critères de forces pour le remplacement automatique
+
+Si vous voulez spécifier les forces de vos joueurs, mais ne pas les prendre en compte pour le remplacement, étendez au maximum la plage de force (-1000 à 1000). Assurez-vous que l’option «Étendre 
+les forces progressivement» est désactivée.
+
+{% include image.html src="2016-11-14-aucun-critere-force.png" caption="Aucun critère" %}
+
+Si vos règles de remplacement sont strictes, configurez la plage de force selon vos besoins et n’activez pas l’option «Étendre les forces progressivement». Les remplaçants devront obligatoirement 
+respecter les forces configurées pour jouer. 
+
+{% include image.html src="2016-11-14-criteres-forces-stricts.png" caption="Critères stricts" %}
+
+Si vos règles de remplacement sont flexibles, configurez la plage de force initiale puis cochez l’option «Étendre les forces progressivement». Entrez maintenant le nombre d’heures pour atteindre 
+progressivement les limites de la deuxième plage de force. Lorsqu’une absence est déclarée, seulement les joueurs qui respectent la plage initiale seront contactés puis celle-ci augmentera selon la durée configurée pour atteindre la plage finale. Cette option vous permet d’augmenter vos possibilités de remplacement si vous favorisez des parties avec un alignement complet.
+
+Par exemple, si un joueur «A» déclare son absence et que la ligue est configurée comme l’image ci-dessous, le remplacement automatique contactera initialement les remplaçants de la ligue avec une force entre «C» et «BB». Après 4 heures, les remplaçants qui ont une force entre «D» et «AA» seront contactés puis, après 8 heures, ceux avec une force en «D» et «AAA». La limite minimale reste «D» car c’est la position la plus faible.
+
+{% include image.html src="2016-11-14-criteres-flexibles-forces.png" caption="Critères flexibles" %}
+
+#### Paramètres de notifications
+
+Ces paramètres configurent les notifications automatiques envoyées aux gestionnaires et aux joueurs de la ligue.
+
+{% include image.html src="2017-03-27-notifications-parameters-fr.png" caption="Paramètres de statistiques" %}
+
+##### Avertir les gestionnaires de la ligue lorsqu'un joueur est absent
+
+Configuration pour envoyer ou pas un courriel ou un message texte aux gestionnaires quand un joueur déclare son absence. Il est aussi possible de configurer le délai de temps avant une partie durant 
+lequel les gestionnaires veulent recevoir des notifications. Par exemple, avertir les gestionnaires seulement quand une absence est déclarée quatre heures avant la partie.
+
+##### Avertir les gestionnaires de la ligue lorsqu'un joueur a été remplacé
+
+Avertir ou pas les gestionnaires quand un remplaçant accepte une demande de remplacement.
+
+##### Avertir les gestionnaires de la ligue lorsqu'aucun joueur remplaçant n'a pu être trouvé
+
+Avertir ou pas les gestionnaires quand un joueur a déclaré son absence et d'aucun remplaçant a accepté la demande.
+
+##### Envoyer un rappel aux joueurs avant chaque partie
+
+Permets d'envoyer un rappel avant le début des parties à tous les joueurs de cette partie.
+
+{% include image.html src="2017-03-27-game-reminder-fr.png" caption="Rappel de partie" %}
+
+#### Paramètres de résultats
+
+Les paramètres de résultats spécifient quelle information est saisie pour chaque partie afin de calculer les statistiques. L'ordre des champs peut être changée.
+
+{% include image.html src="2017-03-27-results-parameters-fr.png" caption="Paramètres de statistiques" %}
+
+#### Paramètres de statistiques
+
+Avec les paramètres de statistiques, les gestionnaires peuvent spécifier quelles statistiques sont affichées aux joueurs et dans quel ordre. Ils peuvent aussi rendre les statistiques seulement 
+visibles aux gestionnaires et aux capitaines.
+
+{% include image.html src="2017-03-27-statistics-parameters-fr.png" caption="Paramètres de statistiques" %}
+
+#### Paramètres d'accès
+
+Les paramètres d'accès permettent aux gestionnaires de donner des permissions de gestion à d'autres utilisateurs.
+
+{% include image.html src="2017-03-27-access-parameters-fr.png" caption="Paramètres d'accès" %}
+
+##### Gestionnaires
+
+Ajoutez plusieurs gestionnaires pour partager la gestion de la ligue. Les gestionnaires ont les mêmes permissions que le propriétaire de la ligue sauf qu'ils ne peuvent transférer la ligue à un nouveau propriétaire.
+
+##### Marqueurs
 
 Ajoutez des marqueurs qui pourront inscrire le pointage en temps réel et mettre à jour vos statistiques. Les marqueurs doivent tout d’abord avoir un compte Maligue.ca. Ensuite, à partir de l’onglet 
 Accès des paramètres de votre ligue, ajoutez-les en tant que marqueurs pour les autoriser à accéder à vos parties.
 
-{% include image.html src="2016-08-29-scorekeepers.png" caption="Gestion des marqueurs" %}
+##### Transférer la possession
 
-#### Saisons
+Quand un propriétaire transfert la possession de sa ligue, les crédits de partie consommés pour créer de nouvelles parties sont ceux du nouveau propriétaire. L'opération ne peut être inversée par l'ancien propriétaire.
 
-Ajoutez des saisons pour obtenir organiser vos parties et obtenir le classement de chaque saisons. Cela permet de masquer les parties des années précédentes afin que les joueurs consultent seulement les parties pertinentes à leur calendrier.
+#### Paramètres de saisons
+
+Ajoutez des saisons pour obtenir organiser vos parties ainsi qu'obtenir le classement et les statistiques de chaque saison. Cela permet de masquer les parties des années précédentes afin que les joueurs consultent seulement les parties pertinentes à leur calendrier.
 
 {% include image.html src="2016-04-04-seasons.png" caption="Gestion des saisons" %}
 
