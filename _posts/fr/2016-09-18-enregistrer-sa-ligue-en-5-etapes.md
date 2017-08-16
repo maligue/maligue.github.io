@@ -7,7 +7,7 @@ Avec Maligue.ca, enregistrer votre ligue nécessite seulement cinq étapes et qu
 
 #### 1. Créer son compte
 
-Allez [ici](https://maligue.ca/?lang=fr#/signup) et entrez l'information demandée. Un seul compte suffit pour être gestionnaire ou joueur de plusieurs ligues. Si vous entrez votre numéro de téléphone,  vous recevrez les notifications automatisées par message texte.
+Allez [ICI](https://maligue.ca/?lang=fr#/signup) et entrez l'information demandée. Un seul compte suffit pour être gestionnaire ou joueur de plusieurs ligues. Si vous entrez votre numéro de téléphone,  vous recevrez les notifications automatisées par message texte.
 
 #### 2. Créer sa ligue
 
@@ -34,6 +34,8 @@ Dans l’onglet Remplaçants, il y a une section pour ajouter des remplaçants p
 #### 6. Réviser les paramètres de ligue (optionnel)
 
 Révisez les paramètres de votre ligue dans l’onglet Paramètres. Vous pouvez entre autres y ajouter des gestionnaires, configurer vos statistiques et ajuster vos notifications automatisées.
+
+### [Automatisez votre ligue maintenant!](https://maligue.ca/?lang=fr#/signup)
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
