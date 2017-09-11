@@ -3,7 +3,7 @@ title: "Nouvelle fonctionnalitée - Les remplaçants payent avec Maligue.ca"
 lang: fr
 localization: substitute-payments
 ---
-Nous sommes très contents d’ajouter le paiement des remplaçants à la plateforme Maligue.ca afin de simplifier encore davantage la gestion de votre ligue sportive. Il n’est plus nécessaire de collecter l’argent, de faire le suivi des paiements et de rendre la monnaie aux remplaçants. Utilisez dès maintenant le paiement intégré en suivant ces instructions. Nous utilisons la technologie de paiement Stripe pour vous assurer une sécurité et une simplicité.
+Désormais, les remplaçants peuvent payer directement sur la plateforme Maligue.ca, afin de simplifier encore plus la gestion de votre ligue sportive. Il n'est plus nécessaire de collecter l'argent, de faire le suivi des paiements, ni de rendre la monnaie aux remplaçants. Utilisez dès maintenant le paiement intégré en suivant ces instructions. Nous utilisons la technologie de paiement Stripe pour vous assurer une sécurité et une simplicité hors pair.
 
 Pour que le paiement fonctionne, vous devez tout d’abord configurer votre ligue. Ensuite, vos remplaçants auront l’option de payer par le site web. Dans cet article, nous vous présentons tout d’abord la simplicité du paiement pour ensuite vous montrer comment configurer votre ligue.
 
