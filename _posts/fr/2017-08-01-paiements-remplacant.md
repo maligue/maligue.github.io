@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle fonctionnalitée - Remplaçants payent avec Maligue.ca"
+title: "Nouvelle fonctionnalitée - Les remplaçants payent avec Maligue.ca"
 lang: fr
 localization: substitute-payments
 ---
@@ -19,7 +19,7 @@ Il est toujours aussi facile d’accepter un remplacement avec le paiement en li
 
 Si le joueur décide de payer plus tard, il peut réafficher le formulaire de paiement à partir de la page de la partie ou vous payer à la partie.
 
-{% include image.html src="2017-09-10-pay-fr.png" caption="Payer pour joueur." %}
+{% include image.html src="2017-09-10-pay-fr.png" caption="Payer pour jouer." %}
 
 Vous pouvez voir l’argent que vous devez collecter dans la page de la partie.
 
@@ -29,11 +29,11 @@ Vous pouvez voir l’argent que vous devez collecter dans la page de la partie.
 
 ### Configuration de la ligue
 
-Pour activer le paiement, allez dans les paramètres de votre ligue et cliques sur l'onglet Paiement. Cliquez ensuite sur Connecter un compte Stripe.
+Pour activer le paiement, allez dans les paramètres de votre ligue et cliquez sur l'onglet Paiement. Cliquez ensuite sur Connecter un compte Stripe.
 
 {% include image.html src="2017-09-10-configure-payment-fr.png" caption="Configurer le paiement." %}
 
-Sélectionnez « Dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.«. Ne cochez pas la case à cocher suivante.
+Sélectionnez Canada et dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.«. Ne cochez pas la case à cocher suivante.
 
 {% include image.html src="2017-09-10-configure-payment-product-fr.png" caption="Entrez la description de votre ligue." %}
 
