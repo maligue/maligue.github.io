@@ -33,7 +33,7 @@ Pour activer le paiement, allez dans les paramètres de votre ligue et cliquez s
 
 {% include image.html src="2017-09-10-configure-payment-fr.png" caption="Configurer le paiement." %}
 
-Sélectionnez Canada et dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.«. Ne cochez pas la case à cocher suivante.
+Sélectionnez Canada et dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.». Ne cochez pas la case à cocher suivante.
 
 {% include image.html src="2017-09-10-configure-payment-product-fr.png" caption="Entrez la description de votre ligue." %}
 
@@ -41,13 +41,13 @@ Pour «Your business type», choisissez «Individual/Sole proprietorship» et en
 
 Entrez ensuite votre nom et votre date de naissance dans les champs «Legal name» et «Date of birth». Pour SIN (Tax ID), vous devez entrer votre numéro d’assurance social pour confirmer votre identifiée.
 
-Saisissez le nom de votre ligue dans le champ «Business Name» et votre numéro de téléphone dans «Phone». Cette information sera affichée sur relevés de carte de crédit des joueurs.
+Saisissez le nom de votre ligue dans le champ «Business Name» et votre numéro de téléphone dans «Phone». Cette information sera affichée sur les relevés de carte de crédit des joueurs.
 
 Sélectionnez «CAD» comme Bank account currency et ensuite saisissez les informations de votre compte de banque. Vous pouvez trouver ces informations sur votre spécimen chèque.
 
 Finalement, entrez votre adresse courriel et votre mot de passe pour créer votre compte Stripe. Vous pourrez utiliser ces données pour vous authentifier sur Stripe et consulter l’information de vos paiements.
 
-Ensuite configurer le prix pour les remplaçants. Maligue.ca collecte 2.00$ par transaction et Stripe collecte 0.30$ + 0.029%.
+Ensuite configurez le prix pour les remplaçants. Maligue.ca collecte 2.00$ par transaction et Stripe collecte 0.30$ + 0.029%.
 
 {% include image.html src="2017-09-10-configure-price-fr.png" caption="Configurer le prix pour les remplaçants." %}
 
