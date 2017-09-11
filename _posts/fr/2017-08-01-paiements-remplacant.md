@@ -25,7 +25,7 @@ Vous pouvez voir l’argent que vous devez collecter dans la page de la partie.
 
 {% include image.html src="2017-09-10-amount-due-fr.png" caption="Montant impayé." %}
 
-{% include image.html src="2017-09-10-amount-due-fr.png" caption="Montant payé." %}
+{% include image.html src="2017-09-10-amount-paid-fr.png" caption="Montant payé." %}
 
 ### Configuration de la ligue
 
