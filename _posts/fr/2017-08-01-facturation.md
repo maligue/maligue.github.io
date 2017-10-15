@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle fonctionnalitée - Gérer la facturation de vos joueurs"
+title: "Nouvelle fonctionnalité - Gérer la facturation de vos joueurs"
 lang: fr
 localization: billing
 ---

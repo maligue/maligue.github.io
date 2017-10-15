@@ -1,5 +1,5 @@
 ---
-title: "Nouvelle fonctionnalitée - Paiement en ligne pour les remplaçants"
+title: "Nouvelle fonctionnalité - Paiement en ligne pour les remplaçants"
 lang: fr
 localization: substitute-payments
 ---
