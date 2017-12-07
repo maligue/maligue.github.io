@@ -3,7 +3,7 @@ title: "Commencer avec Maligue.ca"
 lang: fr
 localization: getting-started-with-maligueca
 ---
-Ce guide explique comment commencer avec Maligue.ca ainsi que toutes les différentes possibilités offertes.
+Ce guide explique comment commencer avec Maligue.ca ainsi que toutes les différentes possibilités offertes. Il y a beaucoup de contenu mais lisez seulement ce qui est pertinent à votre ligue.
 
 ### Créer son compte
 
