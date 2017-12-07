@@ -200,13 +200,13 @@ Révisez les paramètres de votre ligue dans l’onglet Paramètres.
 
 #### Paramètres généraux
 
-À partir de l'onglet _Général_ des paramètres de votre ligue, vous pouvez téléverser un logo qui sera affiché à la plage du nom de votre ligue.
+À partir de l'onglet _Général_ des paramètres de votre ligue, vous pouvez téléverser un logo qui sera affiché à la place du nom de votre ligue.
 
 {% include image.html src="2017-03-27-general-parameters-fr.png" caption="Paramètres généraux" %}
 
 ##### Nom de la ligue
 
-Changez de nom de la ligue ou téléversez un logo qui sera affiché à la plage du nom de votre ligue dans l'application.
+Changez de nom de la ligue ou téléversez un logo qui sera affiché à la place du nom de votre ligue dans l'application.
 
 ##### Fuseau horaire
 
@@ -234,13 +234,13 @@ En activant les forces de joueurs, Maligue.ca va contacter des remplaçants du b
 
 Empêcher les joueurs de déclarer une absence juste avant le début d'une partie.
 
-{% include image.html src="2017-03-27-no-absence-before-games-fr.png" caption="Plage ne pas déranger" %}
+{% include image.html src="2017-03-27-no-absence-before-games-fr.png" caption="Combien de temps avant la partie les joueurs ne peuvent plus déclarer d'absence" %}
 
 ##### Contacter les joueurs remplaçants uniquement dans les jours précédant la partie
 
 Permets de contacter les joueurs seulement durant un certaine période de temps avant la partie. Par exemple, ne pas contacter les joueurs pour une partie qui aura lieu dans deux mois.
 
-{% include image.html src="2017-03-27-contact-period-fr.png" caption="Plage ne pas déranger" %}
+{% include image.html src="2017-03-27-contact-period-fr.png" caption="À quel moment débuter la recherche de remplaçant" %}
 
 ##### Spécifier une plage de temps ne pas déranger
 
@@ -253,7 +253,7 @@ Durant la plage «ne pas déranger», Maligue.ca n'envoie pas de SMS et de courr
 Permets aux gestionnaires de configurer un délai entre chaque étape de la recherche de remplaçants. Ces délais permettent de laisser du temps aux favoris d'accepter les demandes avant de contacter 
 tous les remplaçants.
 
-{% include image.html src="2017-03-27-substitution-request-delays-fr.png" caption="Delais pour le remplacement automatique" %}
+{% include image.html src="2017-03-27-substitution-request-delays-fr.png" caption="Délais pour le remplacement automatique" %}
 
 ##### Inclure les prix dans les demandes de remplacement
 
