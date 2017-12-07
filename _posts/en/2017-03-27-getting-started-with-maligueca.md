@@ -287,7 +287,7 @@ For example, if an "A" player declares his absence and the league is configured 
 
 These settings configure the automatic notifications sent to league managers and players.
 
-{% include image.html src="2017-03-27-notifications-parameters-fr.png" caption=Notification settings" %}
+{% include image.html src="2017-03-27-notifications-parameters-fr.png" caption="Notification settings" %}
 
 ##### Notify league manager(s) when a player is absent
 
