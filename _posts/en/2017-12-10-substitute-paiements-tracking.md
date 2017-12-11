@@ -7,7 +7,7 @@ It is now easy to track substitute payments with Maligue.ca. From the Billing vi
 
 {% include image.html src="2017-12-10-substitute-payment-tracking-en.png" caption="Substitute payments" %}
 
-To use this feature, you must first enable online payment for substitutions. See how to do it here.
+To use this feature, you must first enable online payment for substitutions. See how to do it [here](http://blog.maligue.ca/subtitute-payments/).
 
 Then, when a replacement will accept a replacement without paying, a fee will be automatically added in red. Once the replacement is paid, the balance will be adjusted to 0 and the amount will be green.
 

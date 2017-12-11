@@ -7,7 +7,7 @@ Il est maintenant facile de faire le suivi des paiements de remplaçants avec Ma
 
 {% include image.html src="2017-12-10-substitute-payment-tracking-fr.png" caption="Paiements de remplaçants" %}
 
-Pour utiliser cette fonctionnalité, vous devez tout d’abord activer le paiement en ligne pour remplaçants. Voyez comment faire ici.
+Pour utiliser cette fonctionnalité, vous devez tout d’abord activer le paiement en ligne pour remplaçants. Voyez comment faire [ici](http://blog.maligue.ca/paiements-remplacant).
 
 Ensuite, lorsqu’un remplaçant acceptera un remplacement sans payer, un frais sera automatiquement ajouté en rouge. Une fois que le remplacement est payé, la balance sera ajustée à 0 et le montant sera vert.
 
