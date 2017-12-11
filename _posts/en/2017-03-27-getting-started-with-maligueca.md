@@ -7,13 +7,13 @@ This guide explains how to get started with Maligue.ca and all the different pos
 
 ### Creating your account
 
-Go [here](https://maligue.ca/?lang=fr#/signup) and enter the requested information. Only one account is enough to be manager or player of several leagues. If you enter your phone number, you will receive automated notifications by text message.
+Go [here](https://maligue.ca/?lang=en#/signup) and enter the requested information. Only one account is enough to be manager or player of several leagues. If you enter your phone number, you will receive automated notifications by text message.
 
 ### Creating your league
 
 From the Leagues menu, click the Create league item and enter the requested information. You can change these values later.
 
-{% include image.html src="2017-03-27-create-league-fr.png" caption="Create a league" %}
+{% include image.html src="2017-12-07-create-league-en.png" caption="Create a league" %}
 
 #### Sport
 
@@ -287,7 +287,7 @@ For example, if an "A" player declares his absence and the league is configured 
 
 These settings configure the automatic notifications sent to league managers and players.
 
-{% include image.html src="2017-03-27-notifications-parameters-fr.png" caption=Notification settings" %}
+{% include image.html src="2017-03-27-notifications-parameters-fr.png" caption="Notification settings" %}
 
 ##### Notify league manager(s) when a player is absent
 
