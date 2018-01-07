@@ -5,6 +5,8 @@ localization: manage-like-a-pro
 ---
 Maligue.ca manages your sports league for you to make sure your time is spent doing something other than finding replacements. Set up your league in minutes and Maligue.ca will be your assistant manager who takes care of the boring job.
 
+{% include button_link.html url="https://maligue.ca/#/signup" title="Register my league!" %}
+
 #### Automatically replace your absent players
 Configure the criteria of your choice such as the positions of players, their skill level as well as your favorite substitutes and Maligue.ca will do the rest! The system will automatically contact the players in your substitute bank according to your choices for full and balanced alignments for each game.
 
@@ -28,6 +30,8 @@ Without any programming knowledge, you can easily build your own league website 
 
 #### And even more!
 Yes! Register your league [here](https://maligue.ca/?lang=en#/signup) or send us an email at [info@maligue.ca](mailto:info@maligue.ca).
+
+{% include button_link.html url="https://maligue.ca/#/signup" title="Register my league!" %}
 
 If you have any questions or comments please contact us at [info@maligue.ca](mailto:info@maligue.ca).
 

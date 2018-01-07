@@ -5,6 +5,8 @@ localization: manage-like-a-pro
 ---
 Maligue.ca gère ta ligue sportive à ta place pour que tu passes ton temps à faire autre chose que de trouver des remplaçants. Configure ta ligue en quelques minutes et Maligue.ca sera ton gestionnaire-assistant qui s’occupe de toute la job plate.
 
+{% include button_link.html url="https://maligue.ca/#/signup" title="Enregistrer ma ligue!" %}
+
 #### Remplace automatiquement tes joueurs absents
 Configure les critères de ton choix comme les positions des joueurs, leurs forces ainsi que tes remplaçants favoris et Maligue.ca fera le reste! Le système contactera automatiquement les joueurs de ta banque de remplaçants selon tes choix pour des alignements complets et balancés à chaque partie.
 
@@ -25,6 +27,8 @@ C’est fini la gestion des listes de courriel. Tu peux facilement envoyer un me
 Sans aucune connaissance en programmation, tu peux facilement bâtir ton propre site web de ligue avec tes statistiques, ton classement et tes nouvelles. Tu peux aussi ajouter des pages personnalisées avec le contenu que tu veux.
 
 {% include image.html src="2016-09-14-league-website.png" caption="Exemple d'un site web de ligue." style="height:400px;" %}
+
+{% include button_link.html url="https://maligue.ca/#/signup" title="Enregistrer ma ligue!" %}
 
 Et plus encore!
 Oui! Inscris toi [ici](https://maligue.ca/?lang=fr#/signup) ou n’hésite pas à nous écrire au [info@maligue.ca](mailto:info@maligue.ca) pour plus d’informations!
