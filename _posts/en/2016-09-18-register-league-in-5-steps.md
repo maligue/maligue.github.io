@@ -35,6 +35,8 @@ From the Calendar tab, click the Add button and enter the information requested.
 
 Review the settings of your league in the Settings tab. You can add other managers, configure your statistics and adjust your automated notifications.
 
+{% include button_link.html url="https://maligue.ca/#/signup" title="Automate my league now!" %}
+
 If you have any questions or comments please contact us at [info@maligue.ca](mailto:info@maligue.ca).
 
 By Simon.

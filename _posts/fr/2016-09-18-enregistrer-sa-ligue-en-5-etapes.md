@@ -35,7 +35,7 @@ Dans l’onglet Remplaçants, il y a une section pour ajouter des remplaçants p
 
 Révisez les paramètres de votre ligue dans l’onglet Paramètres. Vous pouvez entre autres y ajouter des gestionnaires, configurer vos statistiques et ajuster vos notifications automatisées.
 
-**[Automatisez votre ligue maintenant!](https://maligue.ca/?lang=fr#/signup)**
+{% include button_link.html url="https://maligue.ca/#/signup" title="Automatiser ma ligue maintenant!" %}
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
