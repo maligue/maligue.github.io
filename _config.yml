@@ -84,6 +84,8 @@ t:
     blog: Blog
     next_post: Next post
     previous_post: Previous post
+    search_button: Search
+    search_input: Enter your search terms...
   fr:
     header:
     footer: Alimenté par <a href="http://jekyllrb.com">Jekyll</a> avec <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -91,3 +93,5 @@ t:
     blog: Blogue
     next_post: Article suivant
     previous_post: Article précédent
+    search_button: Rechercher
+    search_input: Entrer votre recherche...
