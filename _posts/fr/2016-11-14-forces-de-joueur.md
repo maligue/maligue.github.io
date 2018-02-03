@@ -13,7 +13,7 @@ les forces progressivement» est désactivée.
 {% include image.html src="2016-11-14-aucun-critere-force.png" caption="Aucun critère" %}
 
 Si vos règles de remplacement sont strictes, configurez la plage de force selon vos besoins et n’activez pas l’option «Étendre les forces progressivement». Les remplaçants devront obligatoirement 
-respecter les forces configurées pour jouer. 
+respecter les forces configurées pour jouer.
 
 {% include image.html src="2016-11-14-criteres-forces-stricts.png" caption="Critères stricts" %}
 
