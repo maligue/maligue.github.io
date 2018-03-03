@@ -11,7 +11,7 @@ For the payment to work, you must first set up your league. Then your replacemen
 
 It is as easy as usual to accept a subtitution request with online payment. Once the player agrees to substitute for a spot in the game, a window asks him to confirm the payment. The first time the player has to enter his credit card information, but it will not be necessary for future times.
 
-{% include image.html src="2017-09-10-join-game-fr.png" caption="Accept a substitution request." %}
+{% include image.html src="2018-03-03-join-game-en.png" caption="Accept a substitution request." %}
 
 {% include image.html src="2018-03-03-credit-card-en.png" caption="Enter a credit card." %}
 
