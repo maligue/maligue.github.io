@@ -47,7 +47,7 @@ Select "CAD" as the Bank account currency and then enter your bank account infor
 
 Finally, enter your email address and password to create your Stripe account. You will be able to use this data to authenticate on Stripe and view your payment information.
 
-Finally, set the price for the substitutes. Maligue.ca collects $ 1.00 per transaction and Stripe collects $ 0.30 + 0.029%.
+Finally, set the price for the substitutes. Maligue.ca collects $ 1.00 per transaction and Stripe collects $ 0.30 + 2.9%.
 
 {% include image.html src="2018-03-02-configure-price-en.png" caption="Set the price for replacements." %}
 
