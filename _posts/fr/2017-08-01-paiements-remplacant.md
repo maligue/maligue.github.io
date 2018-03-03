@@ -49,7 +49,7 @@ Finalement, entrez votre adresse courriel et votre mot de passe pour créer votr
 
 Ensuite configurez le prix pour les remplaçants. Maligue.ca collecte 1.00$ par transaction et Stripe collecte 0.30$ + 0.029%.
 
-{% include image.html src="2017-09-10-configure-price-fr.png" caption="Configurer le prix pour les remplaçants." %}
+{% include image.html src="2018-03-02-configure-price-fr.png" caption="Configurer le prix pour les remplaçants." %}
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
