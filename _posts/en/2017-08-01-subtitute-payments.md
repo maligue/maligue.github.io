@@ -49,7 +49,7 @@ Finally, enter your email address and password to create your Stripe account. Yo
 
 Finally, set the price for the substitutes. Maligue.ca collects $ 1.00 per transaction and Stripe collects $ 0.30 + 0.029%.
 
-{% include image.html src="2017-09-10-configure-price-fr.png" caption="Set the price for replacements." %}
+{% include image.html src="2018-03-02-configure-price-en.png" caption="Set the price for replacements." %}
 
 We are waiting for your feedback at [info@maligue.ca](mailto:info@maligue.ca).
 
