@@ -5,7 +5,7 @@ localization: substitute-payment-tracking
 ---
 Il est maintenant facile de faire le suivi des paiements de remplaçants avec Maligue.ca. À partir de la vue Facturation, vous pourrez voir en tout temps les montants que vous n’avez pas collectés.
 
-{% include image.html src="2017-12-10-substitute-payment-tracking-fr.png" caption="Paiements de remplaçants" %}
+{% include image.html src="2018-03-02-substitute-payment-tracking-en.png" caption="Paiements de remplaçants" %}
 
 Pour utiliser cette fonctionnalité, vous devez tout d’abord activer le paiement en ligne pour remplaçants. Voyez comment faire [ici](http://blog.maligue.ca/paiements-remplacant).
 
