@@ -13,25 +13,25 @@ It is as easy as usual to accept a subtitution request with online payment. Once
 
 {% include image.html src="2017-09-10-join-game-fr.png" caption="Accept a substitution request." %}
 
-{% include image.html src="2017-09-10-credit-card-fr.png" caption="Enter a credit card." %}
+{% include image.html src="2018-03-03-credit-card-en.png" caption="Enter a credit card." %}
 
-{% include image.html src="2017-09-10-existing-credit-card-fr.png" caption="Pay with an existing credit card." %}
+{% include image.html src="2018-03-03-existing-credit-card-en.png" caption="Pay with an existing credit card." %}
 
 If the player decides to pay later, he can redisplay the payment form from the game page or pay you cash at the game.
 
-{% include image.html src="2017-09-10-pay-fr.png" caption="Pay to play." %}
+{% include image.html src="2018-03-03-pay-en.png" caption="Pay to play." %}
 
 You can see the money you have to collect in the game page.
 
-{% include image.html src="2017-09-10-amount-due-fr.png" caption="Unpaid amount" %}
+{% include image.html src="2018-03-03-amount-due-en" caption="Unpaid amount" %}
 
-{% include image.html src="2017-09-10-amount-paid-fr.png" caption="Paid amount" %}
+{% include image.html src="2018-03-03-amount-paid-en.png" caption="Paid amount" %}
 
 ### League configuration
 
 To activate the payment, go to the settings of your league and click on the Payment tab. Then click Connect with Stripe.
 
-{% include image.html src="2017-09-10-configure-payment-fr.png" caption="Configure payment." %}
+{% include image.html src="2018-03-03-configure-payment-en.png" caption="Configure payment." %}
 
 Select Canada and in the "Tell us about your business" text box, you must explain that you are a sports league that sells a season or sports games. Here's an example of a message: "I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game. " Do not select the following check box.
 
