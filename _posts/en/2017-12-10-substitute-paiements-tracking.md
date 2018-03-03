@@ -5,7 +5,7 @@ localization: substitute-payment-tracking
 ---
 It is now easy to track substitute payments with Maligue.ca. From the Billing view, you will be able to see at any time the amounts you did not collect.
 
-{% include image.html src="2017-12-10-substitute-payment-tracking-en.png" caption="Substitute payments" %}
+{% include image.html src="2018-03-02-substitute-payment-tracking-en.png" caption="Substitute payments" %}
 
 To use this feature, you must first enable online payment for substitutions. See how to do it [here](http://blog.maligue.ca/subtitute-payments/).
 
