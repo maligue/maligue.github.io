@@ -23,7 +23,7 @@ If the player decides to pay later, he can redisplay the payment form from the g
 
 You can see the money you have to collect in the game page.
 
-{% include image.html src="2018-03-03-amount-due-en" caption="Unpaid amount" %}
+{% include image.html src="2018-03-03-amount-due-en.png" caption="Unpaid amount" %}
 
 {% include image.html src="2018-03-03-amount-paid-en.png" caption="Paid amount" %}
 
