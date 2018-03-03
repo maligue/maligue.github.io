@@ -47,7 +47,7 @@ Sélectionnez «CAD» comme Bank account currency et ensuite saisissez les infor
 
 Finalement, entrez votre adresse courriel et votre mot de passe pour créer votre compte Stripe. Vous pourrez utiliser ces données pour vous authentifier sur Stripe et consulter l’information de vos paiements.
 
-Ensuite configurez le prix pour les remplaçants. Maligue.ca collecte 1.00$ par transaction et Stripe collecte 0.30$ + 0.029%.
+Ensuite configurez le prix pour les remplaçants. Maligue.ca collecte 1.00$ par transaction et Stripe collecte 0.30$ + 2.9%.
 
 {% include image.html src="2018-03-02-configure-price-fr.png" caption="Configurer le prix pour les remplaçants." %}
 
