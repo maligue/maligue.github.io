@@ -17,4 +17,6 @@ We've also added notifications to the app so you can easily find a previously re
 
 Install the mobile app on your phone now to easily report an absence or replace in a game.
 
+{% include button_link.html url="https://maligue.app.link/KRsk2wGTXL" title="Download app!" %}
+
 If you have any questions or comments please contact us at info@maligue.ca.
