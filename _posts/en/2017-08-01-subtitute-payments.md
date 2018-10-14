@@ -5,7 +5,7 @@ localization: substitute-payments
 ---
 Now, substitutes can pay directly on the Maligue.ca platform, to further simplify the management of your sports league. The money is directly transferred into your account. There is no longer any need to collect money, track payments, or give change to replacements. Use the integrated payment now by following these instructions. We use Stripe payment technology to ensure your security and simplicity.
 
-For the payment to work, you must first set up your league. Then your replacements will have the option to pay through the website for the mobile application. In this article, we first introduce the simplicity of online payment and then show you how to set up your league.
+For the payment to work, you must first set up your league on the website. Then your replacements will have the option to pay through the website for the mobile application. In this article, we first introduce the simplicity of online payment and then show you how to set up your league.
 
 ### Payment by a substitute
 
@@ -29,7 +29,7 @@ You can see the money you have to collect in the game page.
 
 ### League configuration
 
-To activate the payment, go to the settings of your league and click on the Payment tab. Then click Connect with Stripe.
+To activate the payment, go to the settings of your league and click on the Payment tab. Then click Connect with Stripe. You must be on the website and not the mobile app.
 
 {% include image.html src="2018-03-03-configure-payment-en.png" caption="Configure payment." %}
 
