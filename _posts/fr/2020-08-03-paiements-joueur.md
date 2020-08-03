@@ -55,7 +55,9 @@ Sélectionnez «CAD» comme Bank account currency et ensuite saisissez les infor
 
 Finalement, entrez votre adresse courriel et votre mot de passe pour créer votre compte Stripe. Vous pourrez utiliser ces données pour vous authentifier sur Stripe et consulter l’information de vos paiements.
 
-Intéressez à faire payer vos remplaçants en ligne aussi? Visitez [cette page](https://blog.maligue.ca/paiements-remplacant/) pour en apprendre plus!. 
+
+
+Intéressez à faire payer vos remplaçants en ligne aussi? Visitez [cette page](https://blog.maligue.ca/paiements-remplacant/) pour en apprendre plus!
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
