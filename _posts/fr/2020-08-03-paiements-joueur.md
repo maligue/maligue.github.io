@@ -11,7 +11,7 @@ Pour que le paiement fonctionne, vous devez tout d’abord configurer votre ligu
 
 Une fois votre ligue configurée pour accepter les paiement en ligne, pour générer un frais de saison, il suffit d’aller dans l’onglet “Facturation” de l’interface de gestion de la ligue, puis de cliquer sur “Enregistrer un frais de saison”
 
-{% include image.html src="2020-08-03-enregistrer-frais-de-saison" caption="Enregistrer un frais de saison." %}
+{% include image.html src="2020-08-03-enregistrer-frais-de-saison.png" caption="Enregistrer un frais de saison." %}
 
 Par la suite, il faut entrer le revenu désiré pour la ligue. Le montant chargé à chaque joueur, incluant le 0.30$ + 2.9% collecté par Stripe, sera automatiquement affiché à droite. Au besoin, une date d’échéance et une note peuvent être ajoutées au paiement. Lorsque le tout est configuré, pesez sur “Ajouter”.
 
