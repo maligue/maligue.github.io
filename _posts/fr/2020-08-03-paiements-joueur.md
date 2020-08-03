@@ -3,9 +3,9 @@ title: "Nouvelle fonctionnalité - Paiement en ligne pour les joueurs"
 lang: fr
 localization: player-payments
 ---
-Dès maintenant, les joueurs réguliers peuvent payer leur frais de saison en ligne sur Maligue.ca. Plus besoin de collecter l’argent comptant! L’argent est transférée directement dans votre compte et vous pouvez voir le montant dû de chaque joueur directement en ligne. Nous utilisons la technologie de paiement Stripe pour vous assurer une sécurité et une simplicité hors pair.
+Dès maintenant, les joueurs réguliers peuvent payer leur frais de saison en ligne sur Maligue.ca. Plus besoin de collecter l’argent comptant! L’argent est transférée directement dans votre compte et vous pouvez faire le suivi des paiements de chaque joueur directement par l'interface de gestion de votre ligue. Nous utilisons la technologie de paiement Stripe pour vous assurer une sécurité et une simplicité hors pair.
 
-Pour que le paiement fonctionne, vous devez tout d’abord configurer votre ligue sur le site web. Ensuite, vous pourrez générer des frais de saisons à payer en ligne et les joueurs auront l’option de payer par le site web ou par l’application mobile. Dans cet article, nous vous présentons tout d’abord la simplicité du paiement pour ensuite vous montrer comment configurer votre ligue.
+Pour que le paiement fonctionne, vous devez tout d’abord configurer votre ligue sur le site web. Ensuite, vous pourrez générer des frais de saisons à payer en ligne et les joueurs auront l’option de payer par le site web ou par l’application mobile de Maligue.ca. Dans cet article, nous vous présentons tout d’abord la simplicité du paiement pour ensuite vous montrer comment configurer votre ligue.
 
 ### Générer un frais de saison (Gestionnaire de ligue)
 
