@@ -39,7 +39,7 @@ Finalement, le joueur n’a qu’à entrer ses informations de paiement, puis pe
 
 Pour activer le paiement, allez dans les paramètres de votre ligue et cliquez sur l'onglet Paiement. Cliquez ensuite sur Connecter un compte Stripe. Vous devez être sur le site web et non sur l'app mobile.
 
-{% include image.html src="2017-09-10-configure-payment-fr.png" caption="Configurer le paiement." %}
+{% include image.html src="2020-08-03-parametres.png" caption="Configurer le paiement." %}
 
 Sélectionnez Canada et dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.». Ne cochez pas la case à cocher suivante.
 
@@ -55,9 +55,11 @@ Sélectionnez «CAD» comme Bank account currency et ensuite saisissez les infor
 
 Finalement, entrez votre adresse courriel et votre mot de passe pour créer votre compte Stripe. Vous pourrez utiliser ces données pour vous authentifier sur Stripe et consulter l’information de vos paiements.
 
+Vous pouvez maintenant utiliser gérer les paiements de vos joueurs en ligne par la plateforme Maligue.ca!
 
+{% include image.html src="2020-08-03-parametres-paiement-actif.png" caption="Activer le paiement en ligne." %}
 
-Intéressez à faire payer vos remplaçants en ligne aussi? Visitez [cette page](https://blog.maligue.ca/paiements-remplacant/) pour en apprendre plus!
+Pour en savoir plus sur le paiement en ligne pour les remplaçants, visitez [cet article!](https://blog.maligue.ca/paiements-remplacant/)
 
 Nous attendons vos commentaires au [info@maligue.ca](mailto:info@maligue.ca).
 
