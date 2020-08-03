@@ -9,7 +9,7 @@ Pour que le paiement fonctionne, vous devez tout d’abord configurer votre ligu
 
 ### Générer un frais de saison (Gestionnaire de ligue)
 
-Une fois votre ligue configurée pour accepter les paiement en ligne, pour générer un frais de saison, il suffit d’aller dans l’onglet “Facturation” de l’interface de gestion de la ligue, puis de cliquer sur “Enregistrer un frais de saison”
+Une fois votre ligue configurée pour accepter les paiements en ligne, pour générer un frais de saison, il suffit d’aller dans l’onglet “Facturation” de l’interface de gestion de la ligue, puis de cliquer sur “Enregistrer un frais de saison”
 
 {% include image.html src="2020-08-03-enregistrer-frais-de-saison.png" caption="Enregistrer un frais de saison." %}
 
@@ -47,7 +47,7 @@ Sélectionnez Canada et dans la zone de texte «Tell us about your business», v
 
 Pour «Your business type», choisissez «Individual/Sole proprietorship» et entrez votre «Business number (TAX ID)» si vous en avez un. Entrez ensuite votre adresse personnelle dans «Business address». Pour «Your website», activez le site web de ligue sur Maligue.ca et copiez-y l’URL.
 
-Entrez ensuite votre nom et votre date de naissance dans les champs «Legal name» et «Date of birth». Pour SIN (Tax ID), vous devez entrer votre numéro d’assurance social pour confirmer votre identifiée.
+Entrez ensuite votre nom et votre date de naissance dans les champs «Legal name» et «Date of birth». Pour SIN (Tax ID), vous devez entrer votre numéro d’assurance sociale pour confirmer votre identité.
 
 Saisissez le nom de votre ligue dans le champ «Business Name» et votre numéro de téléphone dans «Phone». Cette information sera affichée sur les relevés de carte de crédit des joueurs.
 
