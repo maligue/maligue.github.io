@@ -41,15 +41,15 @@ Pour activer le paiement, allez dans les paramètres de votre ligue et cliquez s
 
 {% include image.html src="2020-08-03-parametres.png" caption="Configurer le paiement." %}
 
-Sélectionnez Canada et dans la zone de texte «Tell us about your business», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to substitutes. I charge customers before the start of the game.». Ne cochez pas la case à cocher suivante.
+Sélectionnez «Canada», puis pour «Your website», activez le site web de ligue sur Maligue.ca et copiez-y l’URL. Ensuite, sélectionnez «Other entertainment and recreation» et dans la zone de texte «Business description», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to players and substitutes. I charge customers before the start of the game.».
 
-{% include image.html src="2017-09-10-configure-payment-product-fr.png" caption="Entrez la description de votre ligue." %}
+{% include image.html src="2020-08-03-stripe-1.png" caption="Entrez la description de votre ligue." %}
 
-Pour «Your business type», choisissez «Individual/Sole proprietorship» et entrez votre «Business number (TAX ID)» si vous en avez un. Entrez ensuite votre adresse personnelle dans «Business address». Pour «Your website», activez le site web de ligue sur Maligue.ca et copiez-y l’URL.
+Pour «Type of business», choisissez «Individual or sole proprietorship» et entrez votre «Business number (Tax ID)» si vous en avez un. Entrez ensuite votre adresse personnelle dans «Business address». 
 
-Entrez ensuite votre nom et votre date de naissance dans les champs «Legal name» et «Date of birth». Pour SIN (Tax ID), vous devez entrer votre numéro d’assurance sociale pour confirmer votre identité.
+Entrez ensuite votre nom et votre date de naissance dans les champs «Legal name» et «Date of birth», puis votre adresse personnelle à nouveau. Pour SIN (Tax ID), vous devez entrer votre numéro d’assurance sociale pour confirmer votre identité.
 
-Saisissez le nom de votre ligue dans le champ «Business Name» et votre numéro de téléphone dans «Phone». Cette information sera affichée sur les relevés de carte de crédit des joueurs.
+Saisissez le nom de votre ligue dans le champ «Statement descriptor» et votre numéro de téléphone dans «Phone». Cette information sera affichée sur les relevés de carte de crédit des joueurs.
 
 Sélectionnez «CAD» comme Bank account currency et ensuite saisissez les informations de votre compte de banque. Vous pouvez trouver ces informations sur votre spécimen chèque.
 
