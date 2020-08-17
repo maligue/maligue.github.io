@@ -43,7 +43,7 @@ Pour activer le paiement, allez dans les paramètres de votre ligue et cliquez s
 
 Sélectionnez «Canada», puis pour «Your website», activez le site web de ligue sur Maligue.ca et copiez-y l’URL. Ensuite, sélectionnez «Other entertainment and recreation» et dans la zone de texte «Business description», vous devez expliquer que vous êtes une ligue sportive qui vend une saison ou des parties de sport. Voici un exemple de message: «I own a sport league that sells hockey games to players and substitutes. I charge customers before the start of the game.».
 
-{% include image.html src="2020-08-03-stripe-1.png" caption="Entrez la description de votre ligue." %}
+{% include image.html src="2020-08-03-stripe-signup.png" caption="Entrez la description de votre ligue." %}
 
 Pour «Type of business», choisissez «Individual or sole proprietorship» et entrez votre «Business number (Tax ID)» si vous en avez un. Entrez ensuite votre adresse personnelle dans «Business address». 
 
